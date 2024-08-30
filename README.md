@@ -1,6 +1,6 @@
 ### Hi there :wave:
 
-I am a software engineer from Germany.
+My name is Sigma and I am a software engineer from Germany.
 
 When I'm not working on bigger (serious) projects I like doing stupid stuff in languages that are not meant to do any of that - it's a nice challenge. :yum:
 
