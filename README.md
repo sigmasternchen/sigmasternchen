@@ -8,5 +8,5 @@ Professionally, I mostly work with Java, Python, JavaScript, Go, ... that kind o
 
 Contributions to my projects are always welcome. :smile:
 
-![overview](https://github.com/overflowerror/github-stats/blob/master/generated/overview.svg)
-![languages](https://github.com/overflowerror/github-stats/blob/master/generated/languages.svg)
+![overview](https://github.com/sigmasternchen/github-stats/blob/master/generated/overview.svg)
+![languages](https://github.com/sigmasternchen/github-stats/blob/master/generated/languages.svg)
